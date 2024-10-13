@@ -34,7 +34,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%201)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%201)
 <br><br>
 
 ## SEM 2
@@ -51,7 +51,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%202)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%202)
 <br><br>
 
 ## SEM 3
@@ -67,7 +67,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%203)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%203)
 <br><br>
 
 ## SEM 4
@@ -83,7 +83,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%204)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%204)
 <br><br>
 
 ## SEM 5
@@ -101,7 +101,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%205)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%205)
 <br><br>
 
 ## SEM 6
@@ -118,7 +118,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%206)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%206)
 <br><br>
 
 ## SEM 7
@@ -135,7 +135,7 @@ This readme consists of all the details of all the semesters and the courses.
 
 ### Submissions
 
-[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/tree/master/Sem%20-%207)
+[![](https://img.shields.io/badge/Practical_Files_&_Assignments-Click_Here-%23FF0000.svg?&style=flat&logoColor=white&color=white)](https://github.com/PrintsImpulseGlobal/The-Ultimate-Coding-Resources/tree/master/Sem%20-%207)
 <br><br>
 
 
